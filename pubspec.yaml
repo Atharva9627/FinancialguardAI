@@ -1,0 +1,33 @@
+name: financialguard
+description: "AI Financial Risk Analyzer"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.1.0
+  intl: ^0.19.0
+  google_fonts: ^6.1.0
+  percent_indicator: ^4.2.3
+  fl_chart: ^0.66.0
+  pdf: ^3.10.7
+  printing: ^5.11.0
+  path_provider: ^2.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+
+  # This is the CORRECT place for assets
+
