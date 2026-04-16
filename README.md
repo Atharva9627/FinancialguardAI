@@ -86,6 +86,24 @@ It combines financial modeling, AI advisory, real-time stock insights, and inter
 - Savaya Chatbot  
 
 ---
+## 🚀 Demo
+
+🎥 Click below to watch the demo:
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1WgqvP_dYapKV26HcH7QmyJp7ttLFXvKy/view?usp=sharing)
+
+---
+
+### 💡 Demo Highlights
+- 📊 Financial Health Analysis
+- 🤖 AI Financial Advisor (Gemini)
+- 📈 Stock Market Insights
+- 💰 Investment Calculators
+- 💬 Savaya AI Chatbot
+
+---
+
+> 🚀 FinancialGuard AI helps users make smarter financial decisions with AI-driven insights.
 
 ## ⚙️ Installation
 
