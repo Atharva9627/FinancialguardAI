@@ -109,6 +109,6 @@ It combines financial modeling, AI advisory, real-time stock insights, and inter
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/your-username/financialguard-ai.git
+git clone https://github.com/Atharva9627/financialguard-ai.git
 cd financialguard-ai
 
